@@ -1,7 +1,7 @@
 
 # Todo List
 
- Here is the Todo list made with Flask
+ Here is the Todo list I made with Flask
 
 ## Technologies used
 
